@@ -30,4 +30,4 @@ const Cell = props => (
     </CellGroup>
 )
 
-export default Cell 
+export default Cell
